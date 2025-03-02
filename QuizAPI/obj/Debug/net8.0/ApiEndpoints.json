@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "QuizApp.Controllers.QuizController",
+    "Method": "GetQuizzes",
+    "RelativePath": "api/quiz",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaino\\Documents\\Visual Studio 2022\\Projects\\Quiz\\QuizAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A242FF57-5F3A-4255-B997-A88B76DC3C73}|QuizAPI.csproj|c:\\users\\zaino\\documents\\visual studio 2022\\projects\\quiz\\quizapi\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242FF57-5F3A-4255-B997-A88B76DC3C73}|QuizAPI.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A242FF57-5F3A-4255-B997-A88B76DC3C73}|QuizAPI.csproj|c:\\users\\zaino\\documents\\visual studio 2022\\projects\\quiz\\quizapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A242FF57-5F3A-4255-B997-A88B76DC3C73}|QuizAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaino\\Documents\\Visual Studio 2022\\Projects\\Quiz\\QuizAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zaino\\Documents\\Visual Studio 2022\\Projects\\Quiz\\QuizAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:24:02.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\zaino\\Documents\\Visual Studio 2022\\Projects\\Quiz\\QuizAPI\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\zaino\\Documents\\Visual Studio 2022\\Projects\\Quiz\\QuizAPI\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:47:12.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
